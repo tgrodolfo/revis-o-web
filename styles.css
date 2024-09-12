@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f4f4f4;
+
+}
+
+.container {
+    display: flex;
+    max-width: 1400px;
+}
+
+.cinza {
+    background-color: #d9d9d9;
+    padding: 40px;
+    width: 700px;
+    display: flexbox;
+    align-items: center;
+    text-align: justify;
+
+}
+
+.profile-picture img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.contact, .education, .skills, .idiomas {
+    margin-bottom: 40px;
+}
+
+.contact h2, .education h2, .skills h2, .idiomas h2 {
+    font-family: 'Ruda', sans-serif;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.branco {
+    padding: 40px;
+}
+
+h1 {
+    font-family: 'Ruda', sans-serif;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.about h2, .experience h2 {
+    font-family: 'Ruda', sans-serif;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.experience .job {
+    margin-bottom: 30px;
+}
+
+.job h3 {
+    font-family: 'Ruda', sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+ 
+.experience{
+    margin-top: 30px;
+}
+
+
+ul{
+    list-style: none;
+}
+
+.form{
+    margin-top: 25px;
+}
+
+.icons{
+    width: 10px;
+    height: 10px;
+}
+
+.nome{
+    margin-bottom: 100px;
+}
+
